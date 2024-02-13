@@ -21,10 +21,10 @@ This is a Java application designed to streamline the management of a mock bar's
 
 ## Creating and Seeding Database
 1. Using MySQL Workbench, connect to the host where you would like to host the database for the application. Make note of the host name, login username, and password, as that information will be used to run the application.
-2. Open `SeedCocktailDB.sql` in MySQL Workbench, and run the script.
+2. Open [SeedCocktailDB.sql](SeedCocktailDB.sql) in MySQL Workbench, and run the script.
 
 ## Running the Application
-1. Open [DB.java](src\main\java\AZJ\cocktaildb\DB.java) in your text editor of choice.
+1. Open [DB.java](src/main/java/AZJ/cocktaildb/DB.java) in your text editor of choice.
 2. Set the `databaseURL`, `databaseUser`, and `databasePass` variables to the host name, username, and password recorded in the previous step.
 3. In the [main project directory](/), compile the application. The command format is:
     ```
