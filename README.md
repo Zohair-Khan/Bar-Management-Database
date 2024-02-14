@@ -1,4 +1,4 @@
-# Cocktail Database Application
+# Mock Bar Management Application
 This is a Java application designed to streamline the management of a mock bar's operations. It provides functionalities to connect to, view, and update a MySQL database containing information about various aspects of the bar, including ingredients, suppliers, and bar employees.
 
 ## Requirements
